@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: null,
-  github: 'frankcbliu',
+  github: 'crspecialu',
   wechatPublicName: '晨星以萌',
   wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
   notionPublic: 'https://frankcbliu.notion.site/6a76fdd9ec6d4ae2855aa790d620eec4',
@@ -34,7 +34,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'frankcbliu/awesome-nextjs-notion-blog',
+  utterancesGitHubRepo: 'crspecialu/awesome-nextjs-notion-blog',
   utterancesGitHubLabel: '博客评论',
 
   // whether or not to enable support for LQIP preview images (optional)
@@ -43,7 +43,7 @@ module.exports = {
   isPreviewImageSupportEnabled: false,
 
   // set null to remove from year
-  copyRightFromYear: 2019,
+  copyRightFromYear: 2022,
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
