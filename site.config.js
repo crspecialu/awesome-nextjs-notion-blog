@@ -1,25 +1,25 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '6a76fdd9ec6d4ae2855aa790d620eec4',
+  rootNotionPageId: '2a3685626fa442e196f4ad21603c039c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '菜饼的技术博客',
-  domain: 'szufrank.top',
-  author: '菜饼同学',
+  name: '晨星的技术博客',
+  domain: 'awesome-nextjs-notion-blog-beta.vercel.app',
+  author: '晨星以萌',
 
   // open graph metadata (optional)
-  description: '菜饼同学: 专注硬核技术，校招打法，个人认知体系成长',
-  socialImageTitle: '菜饼同学',
+  description: '晨星以萌: 个人技术分享，校招交流，个人认知体系成长',
+  socialImageTitle: '晨星以萌',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: null,
   github: 'frankcbliu',
-  wechatPublicName: '菜饼不菜',
+  wechatPublicName: '晨星以萌',
   wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
   notionPublic: 'https://frankcbliu.notion.site/6a76fdd9ec6d4ae2855aa790d620eec4',
 
